@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "パッチワーク",
+  "base_artist": "ぼくのりりっくのぼうよみ",
+  "createdAt": "2026-02-16T14:14:34.929951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パッチワーク",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/01_パッチワーク_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パッチワーク",
+      "artist": "Aoba, Ichiko",
+      "has_synced": true,
+      "path": "select/02_パッチワーク_Aoba,_Ichiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パッチワーク - remastered",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/03_パッチワーク_-_remastered_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パッチワーク - remastered",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/04_パッチワーク_-_remastered_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "パッチワーク",
+      "artist": "青葉市子 [Ichiko Aoba]",
+      "has_synced": true,
+      "path": "select/05_パッチワーク_青葉市子_[Ichiko_Aoba].lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パッチワーク",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": true,
+      "path": "select/06_パッチワーク_ぼくのりりっくのぼうよみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パッチワーク",
+      "artist": "Syrup16g",
+      "has_synced": false,
+      "path": "select/07_パッチワーク_Syrup16g.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パッチワーク",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": false,
+      "path": "select/pl_01_パッチワーク_ぼくのりりっくのぼうよみ.txt"
+    }
+  ]
+}
